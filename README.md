@@ -1,3 +1,4 @@
+# Usage
 
 ```bash
 wget https://raw.githubusercontent.com/enesdoganoglu/plugin/main/mod_jibri_autostart.lua
